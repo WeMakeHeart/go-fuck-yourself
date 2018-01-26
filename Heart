@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+     <link rel="shortcut icon" href="https://i.imgur.com/Kj2n2fC.png" />
+
+</head>
+
+<body>
+
+
+
+
+	<style>
+
+a {
+    color: white;
+}
+a:visited {
+    color: white;
+}
+a:hover {
+    color: white;
+}
+a:focus {
+    color: white;
+}
+a:active {
+    color: white;
+}
+
+
+h1 {
+    color: white;
+    font-size: 130pt;
+    width: 100%;
+    margin-right: auto;
+    margin-left: auto;
+    font-family: helvetica;
+    font-weight: normal;
+    text-align: left;
+    margin-top: 1%;
+    line-height: 100%;
+
+}
+
+h2 {
+    color: white;
+    font-size: 30pt;
+    width: 25%;
+    margin-right: 10%;
+    padding-right: 5%;
+    margin-left: auto;
+    font-family: helvetica;
+    font-weight: normal;
+    text-align: left;
+    margin-top: 1%;
+    padding-bottom: 5%;
+    line-height: 100%;
+
+}
+
+
+#heartbox{
+   position: fixed;
+    display: block;
+    margin-top: 15%;
+    margin-left: 30%;
+    margin-right: 90%;
+    z-index: -1;
+
+}
+
+body {
+    background-color: #ef373e;
+    
+}
+
+#gif {
+    position: fixed;
+    display: block;
+    margin-top: 15%;
+    margin-left: 30%;
+    margin-right: auto;
+    width: 40%;
+    z-index: -1;
+}
+
+
+</style>
+
+	<img src="ye.gif" id="gif"></img>
+
+
+<h1>
+	The world has been hijacked by <a href="http://www.therundown.tv/wp-content/photos/kanyeumad092323.jpg">brain</a> heavy marketing. We think this <a href="http://www.gigslutz.co.uk/wp-content/uploads/2014/05/turner-alex-500499e66437f.jpg">sucks</a>. We think there is an alternative path to success. One that speaks truth, is <a href="https://upload.wikimedia.org/wikipedia/en/thumb/4/46/The_Brady_Bunch.jpg/300px-The_Brady_Bunch.jpg">human</a>, is brutally honest and <a href="http://wemakeheart.com/bloodsweattears.html">bleeding</a> edge creative. One built with love. For you, by <a href="http://i0.kym-cdn.com/photos/images/newsfeed/001/217/729/f9a.jpg">us</a>.
+
+
+
+</h1>
+
+<h2> say hi: thomas@wemakeheart.com </h2>
+
+<img src="heartbox.png" id="heartbox"></img>
+
+
+
+
+
+</body>
+</html>
